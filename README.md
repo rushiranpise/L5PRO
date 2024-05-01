@@ -1,46 +1,36 @@
-# L5PRO
+# L5PRO Resources
 
-# Drivers Download
+## Drivers
 
-https://pcsupport.lenovo.com/in/en/products/laptops-and-netbooks/legion-series/legion-5-pro-16ach6h/82jq/82jq0062in/downloads/driver-list
+- [Lenovo Legion Series Drivers](https://pcsupport.lenovo.com/in/en/products/laptops-and-netbooks/legion-series/legion-5-pro-16ach6h/82jq/82jq0062in/downloads/driver-list)
+- [Lenovo China Drivers](https://newsupport.lenovo.com.cn/driveList.html?fromsource=driveList&selname=82jq0062in)
 
-https://newsupport.lenovo.com.cn/driveList.html?fromsource=driveList&selname=82jq0062in
+## BIOS
 
-# BIOS
+- **Lenovo China BIOS (Old Versions Available)**
+  - [GKCN64WW](https://download.lenovo.com/consumer/mobiles/GKCN64WW.exe) ([Archive](https://web.archive.org/web/https://download.lenovo.com/consumer/mobiles/GKCN64WW.exe))
+  - [GKCN60WW](https://download.lenovo.com/consumer/mobiles/GKCN60WW.exe) ([Archive](https://web.archive.org/web/https://download.lenovo.com/consumer/mobiles/GKCN60WW.exe))
+  - [GKCN59WW](https://download.lenovo.com/consumer/mobiles/GKCN59WW.exe) ([Archive](https://web.archive.org/web/https://download.lenovo.com/consumer/mobiles/GKCN59WW.exe))
+  - [GKCN58WW](https://download.lenovo.com/consumer/mobiles/GKCN58WW.exe) ([Archive](https://web.archive.org/web/https://download.lenovo.com/consumer/mobiles/GKCN58WW.exe))
+  - [GKCN57WW](https://download.lenovo.com/consumer/mobiles/GKCN57WW.exe) ([Archive](https://web.archive.org/web/https://download.lenovo.com/consumer/mobiles/GKCN57WW.exe))
+  - [GKCN54WW](https://download.lenovo.com/consumer/mobiles/GKCN54WW.exe) ([Archive](https://web.archive.org/web/https://download.lenovo.com/consumer/mobiles/GKCN54WW.exe))
+  - [GKCN53WW](https://download.lenovo.com/consumer/mobiles/GKCN53WW.exe) ([Archive](https://web.archive.org/web/https://download.lenovo.com/consumer/mobiles/GKCN53WW.exe))
+  - [GKCN50WW](https://download.lenovo.com/consumer/mobiles/GKCN50WW.exe) ([Archive](https://web.archive.org/web/https://download.lenovo.com/consumer/mobiles/GKCN50WW.exe))
+  - [GKCN49WW](https://download.lenovo.com/consumer/mobiles/GKCN49WW.exe) ([Archive](https://web.archive.org/web/https://download.lenovo.com/consumer/mobiles/GKCN49WW.exe))
+  - [GKCN46WW](https://download.lenovo.com/consumer/mobiles/GKCN46WW.exe) ([Archive](https://web.archive.org/web/https://download.lenovo.com/consumer/mobiles/GKCN46WW.exe))
+  - [GKCN44WW](https://download.lenovo.com/consumer/mobiles/GKCN44WW.exe) ([Archive](https://web.archive.org/web/https://download.lenovo.com/consumer/mobiles/GKCN44WW.exe))
 
-Lenovo China (old bios available)
-https://newsupport.lenovo.com.cn/driveDownloads_detail.html?driveId=123431
+## Softwares
 
-https://download.lenovo.com/consumer/mobiles/GKCN64WW.exe || https://web.archive.org/web/https://download.lenovo.com/consumer/mobiles/GKCN64WW.exe
-https://download.lenovo.com/consumer/mobiles/GKCN60WW.exe || https://web.archive.org/web/https://download.lenovo.com/consumer/mobiles/GKCN60WW.exe
-https://download.lenovo.com/consumer/mobiles/GKCN59WW.exe || https://web.archive.org/web/https://download.lenovo.com/consumer/mobiles/GKCN59WW.exe
-https://download.lenovo.com/consumer/mobiles/GKCN58WW.exe || https://web.archive.org/web/https://download.lenovo.com/consumer/mobiles/GKCN58WW.exe
-https://download.lenovo.com/consumer/mobiles/GKCN57WW.exe || https://web.archive.org/web/https://download.lenovo.com/consumer/mobiles/GKCN57WW.exe
-https://download.lenovo.com/consumer/mobiles/GKCN54WW.exe || https://web.archive.org/web/https://download.lenovo.com/consumer/mobiles/GKCN54WW.exe
-https://download.lenovo.com/consumer/mobiles/GKCN53WW.exe || https://web.archive.org/web/https://download.lenovo.com/consumer/mobiles/GKCN53WW.exe
-https://download.lenovo.com/consumer/mobiles/GKCN50WW.exe || https://web.archive.org/web/https://download.lenovo.com/consumer/mobiles/GKCN50WW.exe
-https://download.lenovo.com/consumer/mobiles/GKCN49WW.exe || https://web.archive.org/web/https://download.lenovo.com/consumer/mobiles/GKCN49WW.exe
-https://download.lenovo.com/consumer/mobiles/GKCN46WW.exe || https://web.archive.org/web/https://download.lenovo.com/consumer/mobiles/GKCN46WW.exe
-https://download.lenovo.com/consumer/mobiles/GKCN44WW.exe || https://web.archive.org/web/https://download.lenovo.com/consumer/mobiles/GKCN44WW.exe
+- [Lenovo Legion Toolkit](https://github.com/BartoszCichecki/LenovoLegionToolkit)
+- [L5P Keyboard RGB](https://github.com/4JX/L5P-Keyboard-RGB)
+- [Legion Fan Control](https://www.legionfancontrol.com)
+- [RyzenAdj](https://github.com/FlyGoat/RyzenAdj)
+- [Ryzen Controller](https://gitlab.com/ryzen-controller-team/ryzen-controller)
+- [Universal x86 Tuning Utility](https://github.com/JamesCJ60/Universal-x86-Tuning-Utility)
 
-https://cdn.laptopwiki.eu/public/bios/Lenovo/
-# Softwares
+## Additional Resources
 
-https://github.com/BartoszCichecki/LenovoLegionToolkit
-
-https://github.com/4JX/L5P-Keyboard-RGB
-
-https://www.legionfancontrol.com
-
-https://github.com/FlyGoat/RyzenAdj
-
-https://gitlab.com/ryzen-controller-team/ryzen-controller
-
-https://github.com/JamesCJ60/Universal-x86-Tuning-Utility
-
-
-https://cdn.laptopwiki.eu/public
-
-https://laptopwiki.eu
-
-https://git.laptopwiki.eu
+- [LaptopWiki Public Downloads](https://cdn.laptopwiki.eu/public)
+- [LaptopWiki](https://laptopwiki.eu)
+- [LaptopWiki GitLab](https://git.laptopwiki.eu)
