@@ -7,7 +7,7 @@
 
 ## BIOS
 
-- **Lenovo China BIOS (Old Versions Available)**
+- **[Lenovo China BIOS](https://newsupport.lenovo.com.cn/driveDownloads_detail.html?driveId=123431) (Old Versions Available)**
   - [GKCN64WW](https://download.lenovo.com/consumer/mobiles/GKCN64WW.exe) ([Archive](https://web.archive.org/web/https://download.lenovo.com/consumer/mobiles/GKCN64WW.exe))
   - [GKCN60WW](https://download.lenovo.com/consumer/mobiles/GKCN60WW.exe) ([Archive](https://web.archive.org/web/https://download.lenovo.com/consumer/mobiles/GKCN60WW.exe))
   - [GKCN59WW](https://download.lenovo.com/consumer/mobiles/GKCN59WW.exe) ([Archive](https://web.archive.org/web/https://download.lenovo.com/consumer/mobiles/GKCN59WW.exe))
